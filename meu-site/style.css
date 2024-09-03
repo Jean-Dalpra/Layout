@@ -1,0 +1,58 @@
+h1{
+text-align: center;
+color: white;
+text-decoration-line: underline;
+text-decoration-color: white;
+font-size: 90px;
+text-shadow: 4px 0px black;
+
+}
+h2{
+text-align: center;
+color: white;
+font-size: 45px;
+text-decoration: underline whitesmoke;
+text-shadow: 4px 0px black;
+}
+h2 a{
+color: white;
+}
+
+
+h3{
+text-align: center;
+font-size: 30px;
+color: white;
+text-shadow: 4px 0px black;
+}
+h3 a{
+    color: white;
+}
+h4{
+color: white;
+text-align: center;
+font-size: 30px ;
+text-shadow: 4px 0px black;
+}
+body {
+    background: rgb(138,69,0);
+    background: linear-gradient(90deg, rgba(138,69,0,1) 0%, rgba(77,34,0,1) 47%, rgba(135,42,0,1) 100%);
+}
+#melancia{
+align-items: center;
+border: 10px solid transparent;
+padding: 15px;
+border-image: url(./img/3014466.png) 30 round;
+border: 5px groove rgb(0, 0, 0);
+}
+li{
+color: white;
+text-align: center;
+font-size: 30px;
+list-style: none;
+text-shadow: 4px 0px black;
+}
+div {
+text-align: center;
+}
+

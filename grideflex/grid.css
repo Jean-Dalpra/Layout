@@ -1,0 +1,18 @@
+.grid-container{
+display: grid;
+height: 500px;
+width: 500px;
+background-color: bisque;
+border: 1px solid black;
+}
+.grid-item{
+background-color: blueviolet;
+height: 50px;
+width: 50px;
+vertical-align: text-top;
+text-align: center;
+border: 1px solid black;
+
+
+
+}
